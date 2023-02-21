@@ -4,7 +4,7 @@ module.exports = {
 	theme: {
 		extend: {},
 		fontFamily: {
-			sans: ["Kolker Brush", "sans-serif"],
+			sans: ["PT Sans Caption", "sans-serif"],
 		},
 	},
 	plugins: [],
